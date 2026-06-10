@@ -15,14 +15,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Pull latest datasets from myholidaytw/public/data
+      - name: Pull latest datasets from the live site
         run: |
           mkdir -p data
-          # 公開 repo 淺 clone（不需 token；GITHUB_TOKEN 跨 repo API 會 404）
-          git clone --depth 1 --filter=blob:none --sparse \
-            https://github.com/ricky22407-lang/myholidaytw.git /tmp/src-repo
-          git -C /tmp/src-repo sparse-checkout set public/data
-          cp /tmp/src-repo/public/data/*.json /tmp/src-repo/public/data/*.csv data/ 2>/dev/null || true
+          # 主站 repo 是 private，但資料檔在網站上公開 — 從 sitemap 列報告 slug 後直接下載
+          python3 - <<'PY'
+          import re, urllib.request
+
+          UA = {"User-Agent": "myholidaytw-data-sync/1.0"}
+          def fetch(url):
+              return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30).read()
+
+          sitemap = fetch("https://www.myholidaytw.com/sitemap.xml").decode()
+          slugs = sorted(set(re.findall(r"myholidaytw\.com/reports/([a-z0-9-]+)", sitemap)))
+          print(f"reports in sitemap: {len(slugs)}")
+          for slug in slugs:
+              for ext in ("json", "csv"):
+                  url = f"https://www.myholidaytw.com/data/{slug}.{ext}"
+                  try:
+                      data = fetch(url)
+                      open(f"data/{slug}.{ext}", "wb").write(data)
+                      print("downloaded", slug + "." + ext)
+                  except Exception as e:
+                      print("skip", url, e)
+          PY
           ls data/
 
       - name: Update report list in README
