@@ -16,22 +16,14 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Pull latest datasets from myholidaytw/public/data
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p data
-          # 認證請求（runner 共用 IP，未認證 API 會被 rate-limit 回傳 error dict）
-          gh api repos/ricky22407-lang/myholidaytw/contents/public/data \
-            | python3 -c "
-          import json, sys, urllib.request
-          files = json.load(sys.stdin)
-          if isinstance(files, dict):
-              raise SystemExit(f'API error: {files.get(\"message\")}')
-          for f in files:
-              if f['name'].endswith(('.json', '.csv')):
-                  print('downloading', f['name'])
-                  urllib.request.urlretrieve(f['download_url'], 'data/' + f['name'])
-          "
+          # 公開 repo 淺 clone（不需 token；GITHUB_TOKEN 跨 repo API 會 404）
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/ricky22407-lang/myholidaytw.git /tmp/src-repo
+          git -C /tmp/src-repo sparse-checkout set public/data
+          cp /tmp/src-repo/public/data/*.json /tmp/src-repo/public/data/*.csv data/ 2>/dev/null || true
+          ls data/
 
       - name: Update report list in README
         run: |
