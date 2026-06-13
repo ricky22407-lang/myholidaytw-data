@@ -17,6 +17,7 @@ Open datasets from [MyHoliday TW Research](https://www.myholidaytw.com/research-
 
 | 資料集 | 報告全文 |
 |---|---|
+| 2026年旅遊保險市場需求分析產業如何發展？數據驅動分析報告 | https://www.myholidaytw.com/reports/lv-you-bao-xian-xu-qiu-fen-xi-market |
 | 民宿短租Airbnb市場分析市場研究：2026台灣旅遊業必看的 5 大訊號 | https://www.myholidaytw.com/reports/min-su-duan-zu-market-analysis |
 | 【產業報告】亞洲廉價航空市場競爭分析：2026年最新趨勢分析 | https://www.myholidaytw.com/reports/ya-zhou-lian-jia-hang-kong-jing-zheng-fen-xi-market |
 
