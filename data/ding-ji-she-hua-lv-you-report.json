@@ -1,0 +1,173 @@
+{
+  "dataset": "深度報告｜頂級奢華旅遊市場報告的2026關鍵趨勢與台灣機會 — 研究來源語料庫",
+  "report_url": "https://www.myholidaytw.com/reports/ding-ji-she-hua-lv-you-report",
+  "publisher": "MyHoliday TW Research（MyHoliday 研究室）",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "method": "Google SERP via Serper API（產業查詢 + PTT/Dcard/Reddit 社群查詢，去重後快照）",
+  "keyword": "頂級奢華旅遊市場報告",
+  "collected_at": "2026-06-19",
+  "source_count": 20,
+  "sources": [
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "2026旅遊趨勢：當頂級酒店駛向海洋、私人飛機成為標配",
+      "url": "https://www.vogue.com.tw/article/2026-%E6%97%85%E9%81%8A%E8%B6%A8%E5%8B%A2",
+      "snippet": "全球高端旅遊市場正迎來一場由亞洲引領的寧靜革命。最新行業趨勢顯示，2026年將成為「亞洲奢華旅行」的轉捩點，不僅頂級酒店版圖向東傾斜，旅行方式本身也正 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "2026旅遊趨勢搶先公開：亞洲時刻來臨！全球邁入「大航海時代」",
+      "url": "https://www.travelerluxe.com/article/desc/250012150",
+      "snippet": "台灣高端旅遊品牌私享旅遊（Curators of Travel） 發布「2026奢華旅遊趨勢觀察」，指出2026年將是奢旅供給與需求同步變動的一年，而亞洲正站在這波全球 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "Virtuoso 2026 奢華報告：解碼全新頂級旅遊心態- LIVEWELL GROUP",
+      "url": "https://www.livewellgroup.com.tw/archives/10317",
+      "snippet": "Virtuoso《2026 Luxe Report》揭示頂級旅遊新趨勢：遠離人潮、慢旅行、文化沉浸與健康療癒。五大關鍵洞察，帶您解碼2026 年奢華旅遊的全新心態。",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "2026奢華6大旅遊趨勢，豪華新玩法台灣就能體驗！私人包島、頂級遊艇",
+      "url": "https://www.elle.com/tw/life/travel/g69657363/2026-luxury-travel-trend/",
+      "snippet": "2026奢華旅遊全面升級，私享旅遊公布六大關鍵趨勢，從亞洲Asia Moment崛起、頂級酒店競爭力提升，到遊艇與私人飛機掀起的海上大航海時代，再到Z 世代追求 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "國際豪華旅遊顧問公司Virtuoso製作的《2026年Virtuoso奢華旅遊報告 ...",
+      "url": "https://www.instagram.com/p/DTfo3lpFMja/",
+      "snippet": "國際豪華旅遊顧問公司Virtuoso製作的《2026年Virtuoso奢華旅遊報告》指出，今年的奢華旅遊趨勢，會是壯闊、充滿靈魂的，「頂級旅客不再只滿足於奢華本身， ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "旅遊真的回來了嗎？i-Buzz全新旅遊聲量年報全方位解析旅遊業現狀與 ...",
+      "url": "https://www.i-buzz.com.tw/article/index.php/article?atype=industry&id=612",
+      "snippet": "報告聚焦三大關鍵產業,額外還有最新度假模式◦航空產業◦旅遊保險・ 真正的趨勢走向。 目前最新最熱門的旅遊形式-全包式・ 奢華與便利並行,深度分析頂級旅 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "豪華旅遊市場旅遊趨勢| Click. Magazine",
+      "url": "https://partner.booking.com/zh-tw/click-magazine/trends-insights/travel-trends-in-luxury-travel",
+      "snippet": "根據Kantar 公司的調查結果，頂級客群是市場非常重要的一部分，大約佔了全球顧客的20% · 豪華享受的旅客是「體驗型」的－他們追求最好、最獨特的體驗，也樂意掏錢 · 他們也很重視 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "旅遊市場規模、份額、成長趨勢及2035年預測 - Research Nester",
+      "url": "https://www.researchnester.com/tw/reports/tourism-industry-market/109",
+      "snippet": "旅遊市場展望：. 2025年，旅遊市場規模超過10.62兆美元，預計到2035年將超過17.46兆美元，在預測期內（即2026年至2035年）的複合年增長率將超過5.1%。",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[閒聊] 旅遊網站+商機- 看板ntucrc - 批踢踢實業坊",
+      "url": "https://www.ptt.cc/bbs/ntucrc/M.1148278025.A.E24.html",
+      "snippet": "將旅遊行程做差異化的包裝，是旅遊網站慣用的行銷策略。然而今年卻走出迥異於以往的趨勢，旅遊網站開始推出高單價的頂級產品，走流行的時尚奢華風。 美國企業家川普 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[新聞] 美國「K型經濟」惡化！ 富人撒千萬度假- 看板Stock",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1761398498.A.5CD.html",
+      "snippet": "... 市場需求旺盛，一趟頂級度假花費可達千萬台幣。政府停擺更加劇了這種貧富差距，使低 ... 頂級旅遊代辦需求旺盛，一 01/05 21:56. 推文自動更新已關閉.",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[新聞] 5千萬度假村澎湖民宿奢華風- 看板PH-sea - 批踢踢實業坊",
+      "url": "https://www.ptt.cc/bbs/PH-sea/M.1270603061.A.DEC.html",
+      "snippet": "塞納美休閒渡假村經理陳素雯說，他們看好澎湖旅遊市場，選在濱海的山水小漁村經營頂級民宿，住房價每晚在5千到8千元，訴求對象是親子及戀人，業者代辦求婚燭光晚餐，並 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[新聞] 不是山富、易飛網！全台最賺錢旅行社「 - 看板Stock",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775029858.A.043.html",
+      "snippet": "不是山富、易飛網！全台最賺錢旅行社「單月吸32億」，遊客讚領隊專業、行程豐富便宜2026-03-31 風傳媒蔡惠芯各家旅行社2月的出團量呈現爆發式成長，營收 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[新聞] 奢華飯店「四季」看上台北信義計畫區將- 看板home-sale",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1641174279.A.5F8.html",
+      "snippet": "... 頂級奢華品牌飯店。 101大樓前信義路近松智路口空地，由元利機構引進並將打造國際知名飯店品牌四季酒店。記者曾學仁／攝影101大樓前信義路近松智路口 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "國外#沖繩2023沖繩完全攻略：剖析沖繩- 旅遊板 - Dcard",
+      "url": "https://www.dcard.tw/f/travel/p/253030605",
+      "snippet": "很熱，但很美，市場價格還沒到最高點，幾乎沒有颱風，這個月份來有非常棒的度假體驗，不論是浮潛、跳島、SUP、耍廢、觀星都能在這裡有最棒的體驗，但預算確實要 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "#國外遊記#峇里島自由行dcard #峇里島景點地圖❤️印尼峇里島自由 ...",
+      "url": "https://www.dcard.tw/f/travel/p/259291399",
+      "snippet": "整理dcard、ptt網友意見，結合70國實戰經驗，親訪峇里島，整理5天4夜行程規劃、花費預算、景點美食推薦、交通包車、villa住宿分區推薦，含最新簽證、旅遊稅、 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "【γTimeb^o^b伽瑪時代EP19】奢華旅遊🛳️體驗經濟 ... - Dcard",
+      "url": "https://www.dcard.tw/f/money/p/259441606",
+      "snippet": "... 頂級航線則選擇讓頭等艙「再進化」，成爲私人空中套房！ 當代頭等艙早已 ... 市場不受當前經濟情勢影響，越奢華、越稀有更引人追捧，連帶前幾年 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "睽違3年終於等到了！「獺祭之會」6/2將於台中頂粵吉品登場 - Dcard",
+      "url": "https://www.dcard.tw/f/food/p/242412959",
+      "snippet": "為了回應廣大粉絲的熱切期待，睽違3年，開元食品與旭酒造株式會社再次攜手合作，將在2023年6月2日舉辦「獺祭之會」頂級餐酒會。2023年首次在台中舉辦，帶來多 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "奧運期間公寓出租價格不如預期巴黎人發財夢碎- 大型賽事板| Dcard",
+      "url": "https://www.dcard.tw/f/sportsevents/p/255996997",
+      "snippet": "但租金價格隨後下跌，葛梅斯認為，這是因為巴黎人在度假期間出租空房的浪潮，以及飯店空房充足。 豪華旅遊租賃集團Archides董事長羅林（Raphael Lorin）表示，對許多巴黎人 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "李奧國際是做什麼的？看不懂商模！只知道一直說要上市？ - Dcard",
+      "url": "https://www.dcard.tw/f/talk/p/258378921",
+      "snippet": "* 頂級奢侈品代理經銷： 代理超過170個國際精品品牌，涵蓋遊艇、馬術、超跑、私人飛機、高爾夫俱樂部、奢華飯店等。 * 高端醫療與健康管理： 積極整合再生 ...",
+      "collected_at": "2026-06-19"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "請問RX450H 和RX270 的差別(第3頁) - Mobile01",
+      "url": "https://www.mobile01.com/topicdetail.php?f=346&t=3108594&p=3",
+      "snippet": "向來為國內豪華休旅車市場銷售龍頭的Lexus RX車系，於11月份不令人意外的再度蟬聯了銷售寶座，即使386輛的銷售成績較10月份略微衰退了10%，但與第2名在銷售量表現上仍有著超過 ...",
+      "collected_at": "2026-06-19"
+    }
+  ]
+}
