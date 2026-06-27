@@ -1,0 +1,173 @@
+{
+  "dataset": "旅遊科技新創OTA平台分析產業現況與2026預測｜給台灣業者的策略建議 — 研究來源語料庫",
+  "report_url": "https://www.myholidaytw.com/reports/lv-you-ke-ji-xin-chuang-ping-tai-fen-xi",
+  "publisher": "MyHoliday TW Research（MyHoliday 研究室）",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "method": "Google SERP via Serper API（產業查詢 + PTT/Dcard/Reddit 社群查詢，去重後快照）",
+  "keyword": "旅遊科技新創OTA平台分析",
+  "collected_at": "2026-06-26",
+  "source_count": 20,
+  "sources": [
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "AI賦能旅遊新時代開創個性化體驗新高度從日本OTA旅遊平台到北美 ...",
+      "url": "https://www.ttnmedia.com/?p=114481",
+      "snippet": "AI人工智慧在旅遊產業展現了巨大的發展潛力，可有效提升效率、降低成本，還能提供個性化的消費體驗。長川資訊透過數據整合與分析，幫助企業優化決策，推動 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "VERSE - VERSE Trip  2026旅遊趨勢——十大預測完整解析 ...",
+      "url": "https://www.facebook.com/verse.com.tw/photos/%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A92026%E6%97%85%E9%81%8A%E8%B6%A8%E5%8B%A2%E5%8D%81%E5%A4%A7%E9%A0%90%E6%B8%AC%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90bookingcom%E8%AA%BF%E6%9F%A5%E5%85%A8%E7%90%8329000%E5%90%8D%E6%97%85%E4%BA%BA%E5%85%AC%E5%B8%832026%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%97%85%E9%81%8A%E8%B6%A8%E5%8B%A2%E2%9E%8A-%E5%A5%87%E5%B9%BB%E9%AD%94%E6%B3%95%E4%B8%96%E7%95%8C%E8%A7%80%E6%99%AF%E9%BB%9E%E9%A2%A8%E9%9D%A1%E5%85%A8%E7%90%83%E9%AB%98%E9%81%9489/1211544567853190/",
+      "snippet": "科技激發了人類追 尋記憶的本能，旅人還運用創新科技追溯祖先根源、透 過故事建立跨世代連結。 ➉ 不需要任何理由就能預訂旅程 66%台灣旅人認為不需要理由就 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "引導您邁向成功的2026 年10 大旅遊趨勢預測| Click. Magazine",
+      "url": "https://partner.booking.com/zh-tw/click%E9%9B%9C%E8%AA%8C/%E8%B6%A8%E5%8B%A2-%E5%88%86%E6%9E%90/%E5%BC%95%E5%B0%8E%E6%82%A8%E9%82%81%E5%90%91%E6%88%90%E5%8A%9F%E7%9A%84-2026-%E5%B9%B4-10-%E5%A4%A7%E6%97%85%E9%81%8A%E8%B6%A8%E5%8B%A2%E9%A0%90%E6%B8%AC",
+      "snippet": "2026 年將是一個科技優先的度假年，旅客們已準備好擁抱未來感的住宿，享受舒適與好奇心交織的體驗。超過一半（56%）的旅客有興趣與能做飯、打掃甚至提供飲品的機器人管家互動。",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "登機免護照、飯店會讀心？2026「超智慧旅行」席捲全球，AI 狠甩 ...",
+      "url": "https://tw.stock.yahoo.com/news/%E7%99%BB%E6%A9%9F%E5%85%8D%E8%AD%B7%E7%85%A7-%E9%A3%AF%E5%BA%97%E6%9C%83%E8%AE%80%E5%BF%83-2026-%E8%B6%85%E6%99%BA%E6%85%A7%E6%97%85%E8%A1%8C-%E5%B8%AD%E6%8D%B2%E5%85%A8%E7%90%83-075200443.html",
+      "snippet": "線上旅行社（OTA）全面轉型為科技公司。Expedia、Booking.com 透過機器學習分析數位足跡，即時預測用戶下一個夢想目的地並推播個人化套裝行程。 印度 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "2月焦點5】2019年獲投最多的十家新創與最新旅遊科技趨勢觀瞻",
+      "url": "https://findit.org.tw/Res/1308",
+      "snippet": "近年來旅遊科技趨勢不外乎是人工智慧、語音助理、虛擬實境等技術的應用，以及社交媒體、手機App如何成為行銷的工具及媒介。Amedus指出，消費者的需求和科技 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "【數位轉型】AI與科技平台重塑旅遊服務引領觀光產業邁向高效時代",
+      "url": "https://www.ttnmedia.com/?p=127532",
+      "snippet": "從企業商務差旅到文化導覽服務，AI與數據科技的導入正在重塑產業運作模式。愛客旅以科技整合預訂、金流與報表分析，打造商務差旅訂房平台，協助企業實現 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "用數據優化服務三大管理平台串聯產業價值鏈 - 台北數位企業發展中心",
+      "url": "https://dbc.gov.taipei/News/Detail/14",
+      "snippet": "串聯產業價值鏈，利用大數據應用，優化顧客服務品質，同時保留「有溫度、有深度」的企業初衷，正是台灣老牌旅行社「可樂旅遊」的現在進行式──成立40年的可樂旅遊，累積高達250萬 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "industry",
+      "platform": "web",
+      "title": "【工商時報】《專家傳真》旅行科技平台化智慧旅遊商機夯",
+      "url": "https://www.cdri.org.tw/xcdoc/cont?xsmsid=0H270572678476094046&sid=0I306314069515561491",
+      "snippet": "就全球旅遊業市場而言，UNWTO（TOURISM HIGHLIGHTS 2017 EDITION）預測2010年至2030年間，全球國際旅客年平均成長率約為3.3％，2020年將可達到14億人次，2030年則 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "PTT",
+      "title": "[分享] 旅遊服務分析(1) 獲利分項- 看板toberich - 批踢踢實業坊",
+      "url": "https://www.ptt.cc/bbs/toberich/M.1410338618.A.7FB.html",
+      "snippet": "旅遊服務分析(1) 獲利分項1.旅遊商品：區域劃分、行銷曝光、資料取得、服務比較、付款漏斗2.區域劃分：全球景點、各洲細分、行政定位、簽證交通、服務據點3.",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "mrhost 儲備幹部計畫6月1日正式開始投遞- 成功大學板 - Dcard",
+      "url": "https://www.dcard.tw/f/ncku/p/239131291",
+      "snippet": "【公司簡介】mrhost 是台灣滿意度最高的安心旅宿平台，與各地的安心旅宿合作，為全球旅客提供旅宿安全問題的最佳解決方案。​，【職務概述】mrhost 儲備 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Dcard",
+      "title": "#面試心得分享近期5間面試經驗- 工作板| Dcard",
+      "url": "https://www.dcard.tw/f/job/p/256448449",
+      "snippet": "主要方向是選定特定旅遊產品/服務並說明選擇原因、分析產值潛力、供應/需求狀況、平台預訂建議等等。(不確定未來其他人收到的題目，所以就不詳細公開內容， ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "【紙上對決】日系原裝vs 國產科技！Toyota bZ4X 尬上Foxtron Cavira",
+      "url": "https://www.mobile01.com/topicdetail.php?f=1562&t=7269905",
+      "snippet": "這兩台車雖然軸距差不到5mm，但從配備到電池邏輯完全是走不同的路線。今天純粹從目前的「紙上規格」來幫大家理性的敲一敲鍵盤、分析一下兩者的差異！ 一、 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "裕隆價值投資與對真實的探究(第47頁) - Mobile01",
+      "url": "https://www.mobile01.com/topicdetail.php?f=291&t=5765842&p=47",
+      "snippet": "目前鴻海MIH平台以開放的車端通訊協議，整合自駕相關科技、ADAS相關配套進行產品開發，將陸續發表自主研發的3款電動車Model C休旅車、Model E轎車和Model T電動巴士，未來1年 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "AIIT境外基金平台(第2頁) - Mobile01",
+      "url": "https://www.mobile01.com/topicdetail.php?f=794&t=395499&p=2",
+      "snippet": "AIIT境外基金平台 · 1.兩年閉鎖期是代表要繳完第三年的錢後,才能贖回嗎?? · 2.看一堆關於AIIT的紅利配比,及一些手續的扣款,根本差不多快要拉平,但其唯一獲利來源只有基金淨值 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "LUXGEN 未來新房車－開啟AI新紀元(第5頁) - Mobile01",
+      "url": "https://m.mobile01.com/topicdetail.php?f=444&t=5436730&p=5",
+      "snippet": "... 科技支持，L-OS還將提供OTA遠程系統升級服務。 “AI智能概念座艙”更具有生物識別智能迎賓功能，通過身份識別的應用與車輛本身的個性化設置相結合，主動將駕駛者的駕車 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Mobile01",
+      "title": "OPPO 濱海灣實驗室直擊- 無懈品質」技術全面解密！ - Mobile01",
+      "url": "https://www.mobile01.com/topicdetail.php?f=689&t=7194087",
+      "snippet": "除了硬體之外，流暢的軟體體驗也是衡量品質的重要指標，為此，OPPO 將軟體創新整合進Apex Guard 無懈品質方案中，在卓越硬體基礎之上，確保同時也有流暢的操作 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Reddit",
+      "title": "PM Mentorship: 尋找或提供導師指導！ : r/ProductManagement",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1hv2kef/pm_mentorship_finding_or_offering_mentorship/?tl=zh-hant",
+      "snippet": "目前職位- 旅遊市場平台產品的資深產品經理. 整體背景和經驗- 在旅遊 ... 在新創公司和中型科技公司有經驗。 你想改善什麼？ 需要幫助“進入”產品 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Reddit",
+      "title": "還有人在思考高科技農場嗎？ : r/ClarksonsFarm - Reddit",
+      "url": "https://www.reddit.com/r/ClarksonsFarm/comments/1u123q2/anyone_still_thinking_about_the_high_tech_farms/?tl=zh-hant",
+      "snippet": "作為一名科技迷，我無法停止思考克拉克森在第五季第三集所造訪的高科技農場。如何利用感應器來最大化產量並最小化化學藥品使用的科學真是令人著迷。",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Reddit",
+      "title": "有人真的完全用Claude 打造過手機App 或網頁App 嗎？ : r/ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1s2qjb3/has_anyone_actually_built_a_mobile_app_or_web_app/?tl=zh-hant",
+      "snippet": "大致上的感覺是Claude 是一個很棒的程式碼夥伴，特別是對於能引導它的開發者來說。使用者們正在推出各種東西，從摔角主題的卡牌遊戲、App Store 上的照片 ...",
+      "collected_at": "2026-06-26"
+    },
+    {
+      "type": "community",
+      "platform": "Reddit",
+      "title": "给五岁小孩解释：为什么便宜酒店的WiFi免费 - Reddit",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/2rsfao/eli5_why_is_wifi_free_in_cheap_hotels_but_paid_in/?tl=zh-hans",
+      "snippet": "如果你是最后一分钟预订，肯定会有像Hotwire 或HotelTonight 这样的渠道提供优惠，而像Expedia 或Orbitz 这样的大型OTA 通常不会有。 ... 新来的客人变成忠实 ...",
+      "collected_at": "2026-06-26"
+    }
+  ]
+}
