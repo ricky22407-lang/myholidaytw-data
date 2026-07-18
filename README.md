@@ -20,6 +20,7 @@ Open datasets from [MyHoliday TW Research](https://www.myholidaytw.com/research-
 | 深度報告｜頂級奢華旅遊市場報告的2026關鍵趨勢與台灣機會 | https://www.myholidaytw.com/reports/ding-ji-she-hua-lv-you-report |
 | 2026年旅遊保險市場需求分析產業如何發展？數據驅動分析報告 | https://www.myholidaytw.com/reports/lv-you-bao-xian-xu-qiu-fen-xi-market |
 | 旅遊科技新創OTA平台分析產業現況與2026預測｜給台灣業者的策略建議 | https://www.myholidaytw.com/reports/lv-you-ke-ji-xin-chuang-ping-tai-fen-xi |
+| 深度報告｜旅遊網紅影響力行銷趨勢的2026關鍵趨勢與台灣機會 | https://www.myholidaytw.com/reports/lv-you-wang-hong-ying-xiang-li-xing-xiao-trends |
 | 民宿短租Airbnb市場分析市場研究：2026台灣旅遊業必看的 5 大訊號 | https://www.myholidaytw.com/reports/min-su-duan-zu-market-analysis |
 | 【產業報告】亞洲廉價航空市場競爭分析：2026年最新趨勢分析 | https://www.myholidaytw.com/reports/ya-zhou-lian-jia-hang-kong-jing-zheng-fen-xi-market |
 
